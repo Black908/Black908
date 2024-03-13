@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 <br/>
-<br/>
 
 ####  :clipboard: I've Used Tools
 
